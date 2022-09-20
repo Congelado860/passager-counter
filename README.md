@@ -2,7 +2,7 @@
 ![preview](./.github/preview.jpg)
 
 
-[clique aqui para acessar](http://congelado860.github.io/nlw-esports-explorer)
+[clique aqui para acessar](https://congelado860.github.io/passager-counter/)
 
 
 Projeto construído com intuito de aperfeiçoar minhas habilidades com as tecnologias relacionadas.
