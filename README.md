@@ -1,5 +1,7 @@
 ## Contador de entradas
 ![preview](./.github/preview.jpg)
+
+
 [clique aqui para acessar](http://congelado860.github.io/nlw-esports-explorer)
 
 
